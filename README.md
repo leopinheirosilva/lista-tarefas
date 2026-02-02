@@ -36,4 +36,4 @@ Email: <leonardopinheirosilva16@gmail.com>
 
 LinkedIn: <https://www.linkedin.com/in/leonardo-pinheiro-13ba26281/>
 
-Clique [aqui](https://leopinheirosilva.github.io/projeto-calculadora/) para acessar o site!
+Clique [aqui](https://leopinheirosilva.github.io/lista-tarefas/) para acessar o site!
