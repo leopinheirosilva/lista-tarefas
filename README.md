@@ -14,26 +14,31 @@ Uma aplicação simples de lista de tarefas (To-Do) construída com HTML, CSS e 
 
 ## Tech Stack
 
-- Front-end: HTML, CSS, JavaScript
-- LocalStorage (navegador)
-- Deploy: GitHub Pages
+- HTML
+- CSS
+- JavaScript
+
 
 ## Como usar
 
 - Digite o nome da tarefa no campo e pressione Enter ou clique em "Adicionar".
-- Clique no checkbox para marcar como concluída.
-- Use o botão de editar para alterar o texto.
+- Clique na tarefa para marcar como concluída.
+- Clique no ícone de lápis para alterar o texto.
 - Clique no ícone de lixeira/remover para apagar a tarefa.
 
 ## UX/UI
 
-- Adicionar feedback visual ao salvar (toasts) e validação (não adicionar tarefas vazias).
+- Adicionar feedback visual ao salvar (toasts) e validação (não adicionar tarefas vazias ou tarefas já existentes).
 - Layout responsível
+
+## Deploy
+
+- GitHub Pages
+
+Clique [aqui](https://leopinheirosilva.github.io/lista-tarefas/) para acessar o site!
 
 ## Contato
 
 Email: <leonardopinheirosilva16@gmail.com>
 
 LinkedIn: <https://www.linkedin.com/in/leonardo-pinheiro-13ba26281/>
-
-Clique [aqui](https://leopinheirosilva.github.io/lista-tarefas/) para acessar o site!
