@@ -18,7 +18,6 @@ Uma aplicação simples de lista de tarefas (To-Do) construída com HTML, CSS e 
 - CSS
 - JavaScript
 
-
 ## Como usar
 
 - Digite o nome da tarefa no campo e pressione Enter ou clique em "Adicionar".
